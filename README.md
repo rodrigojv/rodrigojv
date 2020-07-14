@@ -1,10 +1,10 @@
-### Hi this is Rodrigo's profile 👋
+### Hello there, this is Rodrigo's profile 
 
-## He is a developer, specializing on React
+## He is a software developer, specializing on React
 
-A couple of interesting notes about this guy:
+A couple of interesting fun facts about this guy:
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on my personal [website]
 - 🌱 I’m currently learning GraphQL, Next JS, JAMStack
 - 💬 Ask me about JavaScript, React and refactoring code
 
