@@ -2,7 +2,7 @@
 
 ## He is a software developer, specializing on React
 
-A couple of interesting fun facts about this guy:
+A couple of interesting facts about this guy:
 
 - 🔭 I’m currently working on my personal [website]
 - 🌱 I’m currently learning GraphQL, Next JS, JAMStack
