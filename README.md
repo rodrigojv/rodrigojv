@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi this is Rodrigo's profile 👋
 
-<!--
-**rodrigojv/rodrigojv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## He is a developer, specializing on React
 
-Here are some ideas to get you started:
+A couple of interesting notes about this guy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on my personal website
+- 🌱 I’m currently learning GraphQL, Next JS, JAMStack
+- 💬 Ask me about JavaScript, React and refactoring stuff
 - ⚡ Fun fact: ...
--->
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://rodrigovillalba.com
+[twitter]: https://twitter.com/rodrigoj_el
+[instagram]: https://instagram.com/rodrigoj_el
+[linkedin]: https://www.linkedin.com/in/rodrigo-jos%C3%A9-villalba-otto-0b313618
