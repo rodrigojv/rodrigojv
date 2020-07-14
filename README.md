@@ -6,8 +6,7 @@ A couple of interesting notes about this guy:
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning GraphQL, Next JS, JAMStack
-- 💬 Ask me about JavaScript, React and refactoring stuff
-- ⚡ Fun fact: ...
+- 💬 Ask me about JavaScript, React and refactoring code
 
 
 🏡 [website][website] **|** 
